@@ -1,0 +1,15 @@
+<html>
+    <head>
+    <titel>voorbeeld: css-stijlen </titel>
+
+
+h1 + h2 + h3{Arial:front, }
+h1{em: 1.8,}
+h2{em: 1.5,}
+h3{em: 1.4,}
+p{ Times-New-Roman: front; em: 1.2}
+.één{color: red}
+.twee{color: green}
+.drie{color:blue}
+    </head>
+</html>
