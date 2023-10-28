@@ -1,0 +1,64 @@
+header {
+    font-family: Helvetica;
+    text-align: left;
+    background-color: #2B2D42;
+    padding: 30px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    font-size: 80px;
+    color: #EDF2F4;
+}
+
+header h2 {
+    font-size: 40px;
+    color: #EDF2F4;
+}
+
+header p{
+    color: #8D99AE;
+}
+
+header a{
+    color:#EF233C;
+}
+
+.education {
+    font-family: Helvetica;
+    background-color:#8D99AE;
+
+}
+
+h2 {
+    font-size: 24px;
+    color: black;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+p {
+    color: black;
+}
+
+/* Stijl voor de footer */
+footer {
+    font-family: Helvetica;
+    text-align: left;
+    background-color: #2B2D42;
+    padding: 30px;
+    margin-top: 10px;
+}
+footer h2{
+    color: #8D99AE;
+}
+
+footer a {
+    color:#EF233C;
+}
+
+footer p{
+    color: #8D99AE;
+}

@@ -1,0 +1,28 @@
+li {
+    background-image: url("../opdracht 6/images/png-clipart-checkbox-rectangle-square-computer-icons-checkboxes-angle-check-mark-thumbnail.png");
+    background-size: 20px;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+.checked {
+    background-image: url('../opdracht 6/images/117check1_99896.png');
+    background-repeat: no-repeat;
+    background-size: 20px;
+    padding-left: 30px;
+}
+
+.checklist{
+    list-style-type: none;
+}
+
+
+
+
+
+
+
+
