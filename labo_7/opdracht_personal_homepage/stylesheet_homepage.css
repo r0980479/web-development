@@ -1,0 +1,77 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ecf4fb;
+    margin: 20px;
+}
+
+header {
+    background-color: saddlebrown;
+    color: white;
+    padding: 10px;
+}
+
+header>nav,header>hgroup>h1{
+    font-size:55px;
+    font-family: "Times-New-Roman", Times, serif;
+    color:white !important;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+section {
+    background-color: lightgrey;
+    border: 5px solid #ccc;
+    border-color: rosybrown;
+    margin: 10px 0;
+    padding: 15px;
+}
+
+article {
+    margin-bottom: 10px;
+}
+
+aside {
+    font-weight: bold;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px 0;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 5px solid #ddd;
+    border-color: rosybrown;
+    background-color: lightgrey;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: saddlebrown;
+    color: white;
+}
+
+.prognose{
+    font-size: large;
+    font-variant: small-caps;
+}
+
+.pershome{
+    font-size: 60px;
+    font-family: "Times-New-Roman", Times, serif;
+}
+
+tfoot {
+    font-weight: bold;
+}

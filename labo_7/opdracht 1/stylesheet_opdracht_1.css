@@ -1,0 +1,42 @@
+
+#header{
+    background-image: url('/labo_7/opdracht 1/images/header.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 20px;
+    background-position: center center;
+}
+
+body {
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    padding-top: 20px;
+}
+nav{
+    background-color: black
+}
+
+nav a{
+    color: green;
+    text-decoration: none;
+}
+
+h1{
+    font-family: Verdana;
+    font-size: 25px;
+    text-decoration: underline;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-top: 40px;
+}
+
+.headerH1{
+    color: white;
+    padding-top: 0;
+    text-decoration: none;
+}
+
+article{
+    background-color: lightgrey;
+}
