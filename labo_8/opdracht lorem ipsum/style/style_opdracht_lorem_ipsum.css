@@ -1,0 +1,16 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+}
+
+.section_2 {
+    width: 50%;
+    border: 1px solid #ccc;
+    padding: 10px;
+    box-sizing: border-box;
+}

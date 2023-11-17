@@ -1,0 +1,133 @@
+body{
+    width: 95%;
+    margin: 0 auto;
+}
+
+p, li, footer{
+    font-family: Verdana, Helvetica, Arial;
+}
+
+p, li {
+    font-size: 1.2em;
+}
+
+h1,h2{
+    color: #007e7e;
+
+}
+
+h1{
+    font-size: 150%;
+    text-align: left;
+}
+
+h2{
+    font-size: 130%;
+    text-align: left;
+}
+
+.weekly_specials h1{
+    color: black;
+    font-family: Verdana;
+}
+
+.weekly_specials a:hover{
+    background-color: brown;
+}
+
+#guarantee{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: #444444;
+    background-color: #a7cece;
+    border: dotted white;
+    padding: 20px;
+    text-align: left;
+}
+
+a:link{
+    color: darkgrey;
+}
+
+#guarantee p{
+    margin: 10px;
+    padding: 10px;
+}
+
+#guarantee img{
+    position: relative;
+    top:-20px;
+    left: -15px;
+    float: left;
+    background-size: 30px;
+}
+
+#guarantee img{
+    position: relative;
+    top:-20px;
+    left: -15px;
+    float: left;
+    background-size: 30px;
+}
+
+header img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+section{
+    width: 70%;
+    box-sizing: border-box;
+    float: right;
+    padding: 20px;
+    text-align: left;
+}
+
+section article h2{
+    text-align: left;
+}
+
+section p{
+    text-align: left;
+}
+
+.weekly_specials{
+    width: 30%;
+    box-sizing: border-box;
+    float: right;
+    border:3px solid #007e7e;
+    padding: 30px;
+    background-image: url("../images/cocktail.gif");
+    background-repeat: repeat-x;
+}
+
+.weekly_specials h1,p,h2{
+    text-align:center;
+
+}
+
+.weekly_specials .lemon_breeze {
+    color: red;
+}
+
+.weekly_specials .chai_chiller {
+    color: green;
+}
+
+.weekly_specials .Black_brain_breeze {
+    color: blue;
+}
+
+footer{
+    clear:both;
+    text-align: center;
+}
+.cursief .vet{
+    font-style: italic;
+}
+
+.vet{
+    font-weight: bold;
+}
+
