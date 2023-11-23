@@ -1,0 +1,28 @@
+body{
+    margin: 0 auto;
+    font-size: 1.25em;
+}
+
+article{
+    border: solid black 1px;
+    margin: 10px;
+    overflow: hidden;
+}
+
+article:nth-child(even) img{
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+article:nth-child(odd) img{
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+p, h2{
+    font-family: arial, sans-serif;
+    margin: 10px;
+}
+
