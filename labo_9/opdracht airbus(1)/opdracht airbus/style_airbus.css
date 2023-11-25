@@ -106,17 +106,22 @@ main{
     width: 180px;
 }
 /*bottom*/
-.bottom{
+nav{
 
     color: white;
     line-height: 2em;
     box-sizing: border-box;
     border: white;
+    /*float: left;*/
+    display: block;
+    background-color: #666666;
+    width: 100%;
+    overflow: hidden;
 }
 
 .block{
     padding-left: 120px;
-    background-color: #666666;
+    text-align: left;
 }
 
 .block a:hover{
