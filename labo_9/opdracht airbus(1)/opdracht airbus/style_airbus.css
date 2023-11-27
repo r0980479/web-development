@@ -119,17 +119,22 @@ nav{
     overflow: hidden;
 }
 
-.block{
+.bottom{
     padding-left: 120px;
     text-align: left;
+    line-height: 2em;
 }
 
-.block a:hover{
+.blottom a:hover{
     color:red;
+}
+.bottom a:link, .bottom a:visited{
+    color: white;
 }
 
 .bottom div{
     display: inline-block;
+    margin-left: 40px;
 
 }
 
