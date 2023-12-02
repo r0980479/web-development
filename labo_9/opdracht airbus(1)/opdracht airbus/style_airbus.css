@@ -124,11 +124,11 @@ nav{
     text-align: left;
     line-height: 2em;
 }
-
-.blottom a:hover{
+.bottom a:hover{
     color:red;
 }
-.bottom a:link, .bottom a:visited{
+
+.bottom a{
     color: white;
 }
 
