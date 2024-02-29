@@ -1,15 +1,33 @@
-<html>
-    <head>
-    <titel>voorbeeld: css-stijlen </titel>
+h1 + h2 + h3{
+    font-family: Arial;
+}
 
+h1{
+    font-size: 1.8em;
+}
 
-h1 + h2 + h3{Arial:front, }
-h1{em: 1.8,}
-h2{em: 1.5,}
-h3{em: 1.4,}
-p{ font-family:"Times-New-Roman", Times, serif; front; em: 1.2}
-.één{color: red}
-.twee{color: green}
-.drie{color:blue}
-    </head>
-</html>
+h2{
+    font-size: 1.5em;
+}
+
+h3{
+    font-size: 1.4em;
+}
+
+p{
+    font-family:"Times-New-Roman", Times, serif;
+    font-size: 1.2em;
+}
+
+.één{
+    color: red;
+}
+
+.twee{
+    color: green;
+}
+
+.drie{
+    color:blue;
+}
+
