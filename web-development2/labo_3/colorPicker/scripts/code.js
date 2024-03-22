@@ -3,6 +3,7 @@ const setup = () => {
     let sliderG = document.getElementById("green")/*[0]*/;
     let sliderB = document.getElementById("blue")/*[0]*/;
 
+
     sliderR.addEventListener("input", update);
     sliderR.addEventListener("change", update);
     sliderG.addEventListener("input", update);
@@ -28,4 +29,5 @@ const update =()=> {
     colorPallete.style.backgroundColor = `rgb(${sliderR.value}, ${sliderG.value}, ${sliderB.value})`;
 
 }
+
 window.addEventListener("load", setup);
